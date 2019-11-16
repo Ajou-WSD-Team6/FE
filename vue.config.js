@@ -31,5 +31,5 @@ module.exports = {
             }
         }
     },
-    outputDir: '../backend/public',
+    outputDir: '../BE/public',
 }
